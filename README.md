@@ -39,14 +39,19 @@ The management team at Atliq Hardwares needed help making faster, smarter data-i
 
 [Ad_Hoc_Requests](https://github.com/Neelesh-Chaturvedi/Ad_Hoc_Consumer_Goods/blob/main/ad-hoc-requests.pdf)
 
-[Presentation_With_Queries]()
+[Presentation_With_Queries](https://github.com/Neelesh-Chaturvedi/Ad_Hoc_Consumer_Goods/blob/main/Ad_Hoc_Insight.pdf)
 
+---
 
-📈 Skills Gained
+## 📈 Skills Gained
 
 🔹 Translating raw SQL data into business insights
+
 🔹 Working under ambiguity and solving open-ended questions
+
 🔹 Executive communication and stakeholder storytelling
+
 🔹 End-to-end dashboard creation in Power BI
+
 🔹 Consumer goods domain knowledge
 
