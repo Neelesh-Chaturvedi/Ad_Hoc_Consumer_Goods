@@ -34,12 +34,13 @@ The management team at Atliq Hardwares needed help making faster, smarter data-i
 
 ## 🔗 Live Links
 
-Ad Hoc Requests 
 
 [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTc1YTIyMWYtY2E1ZS00YTE4LTljZDQtYjdjMjlhMTUyOGRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+[Ad_Hoc_Requests](https://github.com/Neelesh-Chaturvedi/Ad_Hoc_Consumer_Goods/blob/main/ad-hoc-requests.pdf)
 
-View the PPT
+[Presentation_With_Queries]()
+
 
 📈 Skills Gained
 
